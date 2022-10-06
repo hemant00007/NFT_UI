@@ -222,7 +222,7 @@ class _BrowseShopState extends State<BrowseShop> {
                   ),
                 ],
               )
-
+            //  ![Screenshot](http://url/to/img.png)
 
             ],
           ),
